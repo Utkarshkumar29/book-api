@@ -1,0 +1,90 @@
+[
+  {
+    "id": "50728619-fffc-4cc6-8ef6-13251e27bec7",
+    "title": "Stocks",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "82dbe006-2d4a-49ee-bb18-253c52201cef",
+    "title": "Dark Matter",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "988b75bd-ec88-4509-b251-c557f3216043",
+    "title": "Layers",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "f276f279-a67e-4ece-95df-70f8d7a1e5d2",
+    "title": "Human",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "9d5552c2-5bd9-41e6-a37e-720bb026458c",
+    "title": "RP",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "1c41ba3c-c86c-41e6-a967-e51ad4d9fc55",
+    "title": "Youtube",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "a252464d-dc88-4d11-ac2d-61cbb3829441",
+    "title": "Auth",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "49b4702b-a932-4801-b835-32ef596811a0",
+    "title": "Laser",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "537f4dcb-5837-42f7-a050-ec162a741d77",
+    "title": "Science",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "bb789b55-7f9c-4316-9d0e-c22822a4d3fc",
+    "title": "Picture",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  },
+  {
+    "id": "a3b13450-d9f3-4bcb-a7ee-b16b02005bd7",
+    "title": "Heavy",
+    "author": "1234567890",
+    "genre": "Knowledge",
+    "publishedYear": "2020",
+    "userId": "68657e2d9d28f176856b73ed"
+  }
+]
